@@ -1,4 +1,5 @@
-import {showButton, hideButton} './dom-loader';
+import from '.'
+import {showButton, hideButton} from './dom-loader';
 var p = document.querySelector('#text');
 p.textContent = "This is text Content";
 
